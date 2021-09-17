@@ -1,24 +1,21 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+---
+<h4 align="center">
+  🚀 Tumblr
+</h4>
+<br>
 
-Things you may want to cover:
+In this project, was used this languages and frameworks:
 
-* Ruby version
+- [Ruby](https://www.ruby-lang.org/en/)
+- [Rails](https://rubyonrails.org/)
 
-* System dependencies
+## 💻 Project 
 
-* Configuration
+One momento plis, I was thing....
 
-* Database creation
+##  💻 Example: 
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+----
